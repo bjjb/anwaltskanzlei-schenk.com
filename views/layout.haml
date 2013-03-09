@@ -1,0 +1,51 @@
+!!!5
+%html(lang='de')
+  %head
+    %title Anwaltzkanzlei Schenk
+    %meta(charset='utf-8')
+    %link(rel='stylesheet' media='screen' href='style.css')
+  %body
+    #container
+      %header
+        %h1 Anwaltzkanzlei Schenk
+      %nav
+        %ul
+          %li
+            %a(href='index.html') Startseite
+          %li
+            %a(href='persoenliches.html') Pers&ouml;nliches
+          -# %li
+          -#   %a(href='rechtsgebiete') Rechtsgebiete
+          %li
+            %a(href='vollmachten.html') Vollmachten/Formulare
+          -# %li
+          -#   %a(href='kosten') Kosten
+          %li
+            %a(href='kontakt.html') Kontakt
+          %li
+            %a(href='lage.html') Lage
+          %li
+            %a(href='impressum.html') Impressum 
+      #content
+        = yield
+      %footer
+        .details
+          .name
+            %h3 Kristin Schenk
+            Rechtsanw&auml;ltin und Fachanw&auml;ltin f&uuml;r Strafrecht
+          .address
+            %h3 Kanzlei
+            %address
+              .line Puschkinstra&szlig;e 12
+              .line 15907 L&uuml;bben 
+              .line post@anwaltzkanzlei-schenk.com
+          .contact
+            %h3 Kontakt
+            .line Fon: 03546/934 77 33
+            .line Fax: 03546/934 77 22
+            .line Funk: 0174/34 67 992
+          .bank
+            %h3 Deutsche Bank 
+            .line BLZ 120 700 24 
+            .line Kto 208 45 31 01 
+            .line USt.-Nr. 049/267/03086
