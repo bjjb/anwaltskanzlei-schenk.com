@@ -43,4 +43,12 @@ file 'public/style.css' => 'views/style.scss' do |t|
   end
 end
 
-task :default => OBJ
+desc "Build the site"
+task :build => OBJ
+
+desc "Publish the site"
+task :deploy => :build do
+  system "rsync -avz --delete public/ anwaltskanzlei-schenk.com:www/anwaltskanzlei-schenk.com/current/public/"
+end
+
+task :default => :build
