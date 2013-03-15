@@ -1,16 +1,16 @@
 ![Photo](img/photo.jpg)
 
-## Schön, dass Sie sich für uns interessieren…!
+## Schön, dass Sie sich für uns interessieren.
 
-Sie dürfen das von uns erwarten:
+Das dürfen Sie von uns erwarten:
 
-Individuelle Betreuung durch gemeinsame Problemerkennung sowie konstruktive, kompetente und kostengünstige Problemlösungen
+Individuelle Betreuung durch gemeinsame Problemerkennung sowie konstruktive, kompetente und kostengünstige Problemlösungen.
 
 Die Rechtsanwaltskanzlei Kristin Schenk steht dabei für:
 
-1.	Erreichbarkeit
-2.	Freundlichkeit
-3.	Erfahrung
-4.	Kompetenz
-5.	Erfolg und 
+1.	Kompetenz
+2.	Erfahrung
+3.	Erfolg
+4.	Erreichbarkeit
+5.	Freundlichkeit und
 6.	Schnelligkeit.

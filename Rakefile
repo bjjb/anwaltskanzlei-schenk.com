@@ -38,6 +38,7 @@ def scss(file)
 end
 
 file 'public/style.css' => 'views/style.scss' do |t|
+  Dir.mkdir('public') unless File.directory?('public')
   File.open(t.name, 'w') do |f|
     f.write(scss('views/style.scss'))
   end
