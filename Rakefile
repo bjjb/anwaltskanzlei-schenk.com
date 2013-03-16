@@ -23,7 +23,7 @@ SRC.each do |src|
 end
 
 def markdown(file)
-  @markdown ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+  @markdown ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML, :autolink => true, :tables => true)
   @markdown.render(File.read(file))
 end
 

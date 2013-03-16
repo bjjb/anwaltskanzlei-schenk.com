@@ -24,10 +24,10 @@ der Bundesrepublik Deutschland verliehen.
 Puschkinstr. 12 <br>
 15907 Lübben <br>
 
-Tel: 03546 / 934 77 33 <br>
-Fax: 03546 / 934 77 22 <br>
+Tel: <a href="tel:+4935469347733">03546 / 934 77 33</a><br>
+Fax: <a href="tel:+4935469347722">03546 / 934 77 22</a><br>
 
-E-Mail: post@anwaltskanzlei-schenk.com
+E-Mail: <a href="mailto:post@anwaltskanzlei-schenk.com">post@anwaltskanzlei-schenk.com</a>
 
 </dd>
 
