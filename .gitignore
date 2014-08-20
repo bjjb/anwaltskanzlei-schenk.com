@@ -1,5 +1,2 @@
 .DS_Store
 .sass-cache
-Gemfile.lock
-public/*.html
-public/*.css
