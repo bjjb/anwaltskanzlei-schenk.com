@@ -1,4 +1,6 @@
 require 'sinatra'
+require 'haml'
+require 'sass'
 require 'redcarpet'
 
 class Application < Sinatra::Base
