@@ -2,7 +2,7 @@
 
 ## Über uns
 
-Ich, Rechtsanwältin Kristin Schenk bin seit Juli 2001 als Rechtsanwältin zugelassen.
+Ich, Rechtsanwältin Kristin Bergmann bin seit Juli 2001 als Rechtsanwältin zugelassen.
 
 Mein Jurastudium absolvierte ich an der Universität Rostock, welches ich 1998 mit dem 1.
 Staatsexamen abschloss. Von 1999 bis 2001 absolvierte ich die Referendarausbildung im
@@ -17,7 +17,8 @@ der Deutschen AnwaltAkademie. Der Titel “Fachanwältin für Strafrecht“ wurd
 Rechtsanwaltskammer am 25.04.2005 verliehen.
 
 Im Januar 2013 eröffnete ich die "Rechtsanwaltskanzlei Kristin Schenk" in der
-Puschkinstraße 12 in 15907 Lübben.
+Puschkinstraße 12 in 15907 Lübben, die seit September 2014 unter den Namen
+"Rechtsanwaltskanzlei Kristin Bergmann" fortgeführt wird.
 
 Meine Aufgabe ist es, Ihre berechtigten Forderungen durchzusetzen – Sie aber auch,
 nach entsprechender rechtlicher Prüfung, über das Fehlen von Erfolgsaussichten einer

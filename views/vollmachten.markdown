@@ -7,5 +7,5 @@
 
 [1]: /doc/Beratungshilfe-Formular.pdf
 [2]: /doc/Prozesskostenhilfe-Formular.pdf
-[3]: /doc/Vollmacht-Strafsachen.pdf
-[4]: /doc/Vollmacht-allgemein.pdf
+[3]: /doc/Vollmacht-S.doc
+[4]: /doc/Vollmacht-a.doc

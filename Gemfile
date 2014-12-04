@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-ruby "2.1.1"
+ruby "2.1.3"
 gem "sinatra"
 gem "rake"
 gem "redcarpet"

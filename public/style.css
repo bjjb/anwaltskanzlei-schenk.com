@@ -67,8 +67,8 @@ header h1 {
   color: transparent;
   font: 0/0 a;
   text-shadow: none;
-  min-height: 142px;
-  background-image: url(img/logo2.png); }
+  min-height: 64px;
+  background: url(img/logo3.png) no-repeat left; }
 
 nav {
   display: table;

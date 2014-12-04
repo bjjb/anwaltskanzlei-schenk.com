@@ -104,8 +104,8 @@ address {
 header {
   h1 {
     @include hide-text;
-    min-height: 142px;
-    background-image: url(img/logo2.png);
+    min-height: 64px;
+    background: url(img/logo3.png) no-repeat left;
   }
 }
 

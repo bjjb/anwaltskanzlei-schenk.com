@@ -4,14 +4,14 @@
 <dt> Name </dt>
 <dd>
 
-Rechtsanwältin Kristin Schenk
+Rechtsanwältin Kristin Bergmann
 
 </dd>
 
 <dt> Zulassung und Berufsbezeichnung </dt>
 <dd>
 
-Rechtsanwältin Kristin Schenk ist von der Rechtsanwaltskammer Brandenburg als
+Rechtsanwältin Kristin Bergmann ist von der Rechtsanwaltskammer Brandenburg als
 Rechtsanwältin zugelassen. Als Mitglied der Rechtsanwaltskammer Brandenburg
 unterliegt sie deren berufsrechtlicher Aufsicht. Die Berufsbezeichnung wurde in
 der Bundesrepublik Deutschland verliehen.
@@ -27,7 +27,7 @@ Puschkinstr. 12 <br>
 Tel: <a href="tel:+4935469347733">03546 / 934 77 33</a><br>
 Fax: <a href="tel:+4935469347722">03546 / 934 77 22</a><br>
 
-E-Mail: <a href="mailto:post@anwaltskanzlei-schenk.com">post@anwaltskanzlei-schenk.com</a>
+E-Mail: <a href="mailto:post@kanzlei-spreewald.de">post@kanzlei-spreewald.de</a>
 
 </dd>
 

@@ -6,7 +6,7 @@ Das dürfen Sie von uns erwarten:
 
 Individuelle Betreuung durch gemeinsame Problemerkennung sowie konstruktive, kompetente und kostengünstige Problemlösungen.
 
-Die Rechtsanwaltskanzlei Kristin Schenk steht dabei für:
+Die Rechtsanwaltskanzlei Kristin Bergmann steht dabei für:
 
 1.	Kompetenz
 2.	Erfahrung
