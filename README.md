@@ -5,9 +5,15 @@ Kanzlei Spreewald
 
 A Sintra / static website.
 
-To deploy, push to Heroku (git@heroku.com:kanzlei-spreewald.git) master.
+To build, install Ruby, RubyGems and Bundler, then run
 
-You should remember to run `rake` first, so that the static HTML files are up
-to date.
+    bundle
+    bundle exec rake
+
+To test locally, run
+
+    bundle rackup
+
+To deploy, push to Heroku (git@heroku.com:kanzlei-spreewald.git) master.
 
 © Kristin Bergmann, JJ Buckley, all rights reserved.
