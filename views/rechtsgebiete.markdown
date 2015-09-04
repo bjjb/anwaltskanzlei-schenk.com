@@ -3,5 +3,5 @@
 * Strafrecht
 * Arbeitsrecht
 * Vertragsrecht
-* Internetrecht
+* Erbrecht
 * Verkehrsrecht

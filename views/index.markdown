@@ -4,7 +4,8 @@
 
 Das dürfen Sie von uns erwarten:
 
-Individuelle Betreuung durch gemeinsame Problemerkennung sowie konstruktive, kompetente und kostengünstige Problemlösungen.
+Individuelle Betreuung durch gemeinsame Problemerkennung sowie konstruktive,
+kompetente und kostengünstige Problemlösungen.
 
 Die Rechtsanwaltskanzlei Kristin Bergmann steht dabei für:
 
