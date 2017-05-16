@@ -5,7 +5,7 @@ require 'redcarpet'
 
 class Application < Sinatra::Base
   @@pages = %w(index persoenliches rechtsgebiete vollmachten kosten kontakt
-              lage impressum)
+              lage impressum hinweise)
 
   configure do
     set :views, './views'
