@@ -1,6 +1,4 @@
-## Hinweise
-
-### Außergerichtliche Streitschlichtung
+## Außergerichtliche Streitschlichtung
 
 Bei Streitigkeiten zwischen Rechtsanwälten und ihren Mandanten besteht auf
 Antrag die Möglichkeit der außergerichtlichen Streitschlichtung bei der
@@ -11,7 +9,7 @@ Schlichtungsstelle der Rechtsanwaltschaft bei der Bundesrechtsanwaltskammer
 die [Homepage der Bundesrechtsanwaltskammer](http://www.brak.de)) oder via
 eMail an [schlichtungsstelle@brak.de](mailto:schlichtungsstelle@brak.de).
 
-### Hinweis nach Art. 14 Abs. 1 der EU-Verordnung 524/2013
+## Hinweis nach Art. 14 Abs. 1 der EU-Verordnung 524/2013
 
 Online-Streitbeilegung (Art. 14 Abs. 1 ODR-Verordnung): Die Europäische
 Kommission stellt unter ec.europa.eu/consumers/odr/ eine Plattform zur
