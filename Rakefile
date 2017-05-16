@@ -6,7 +6,7 @@ require 'rake/clean'
 
 require 'yaml'
 
-pages = %w(index persoenliches vollmachten kosten kontakt lage impressum)
+pages = %w(index persoenliches vollmachten kosten kontakt lage impressum hinweise)
 
 SRC = FileList['views/*.markdown']
 OBJ = FileList['public/style.css']
