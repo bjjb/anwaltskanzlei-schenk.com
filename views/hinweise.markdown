@@ -12,5 +12,6 @@ eMail an [schlichtungsstelle@brak.de](mailto:schlichtungsstelle@brak.de).
 ## Hinweis nach Art. 14 Abs. 1 der EU-Verordnung 524/2013
 
 Online-Streitbeilegung (Art. 14 Abs. 1 ODR-Verordnung): Die Europäische
-Kommission stellt unter ec.europa.eu/consumers/odr/ eine Plattform zur
-Online-Streitbeilegung bereit.
+Kommission stellt unter
+[ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) eine
+Plattform zur Online-Streitbeilegung bereit.
