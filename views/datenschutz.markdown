@@ -217,7 +217,7 @@ Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen
 den unbefugten Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden
 entsprechend der technologischen Entwicklung fortlaufend verbessert.
 
-## 9. Aktualität und Änderung dieser Datenschutzerklärung
+## 8. Aktualität und Änderung dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018.
 Durch die Weiterentwicklung unserer Website und Angebote darüber oder aufgrund
