@@ -1,4 +1,4 @@
-# Datenschutzerklärung nach der DSGVO ([herunterladen](/datenschutz.docx))
+# Datenschutzerklärung nach der DSGVO ([herunterladen](/doc/datenschutz.docx))
 
 Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns an die
 Regeln der Datenschutzgesetze. Personenbezogene Daten werden auf dieser
